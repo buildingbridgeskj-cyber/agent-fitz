@@ -1,0 +1,9 @@
+{
+  "season": 2026,
+  "week": 3,
+  "captured_date": "ENTER_CURRENT_DATE",
+  "notes": "Replace example with current sportsbook lines; never guess.",
+  "picks": [
+    {"matchup":"Away Team at Home Team","market":"REC_YDS","selection":"Player Name","player":"Player Name","team":"Team","opponent":"Opponent","direction":"OVER","line":0.5,"odds":"-110","score":70,"reason":"Enter evidence-based reason.","source":"Enter sportsbook/source and snapshot time"}
+  ]
+}

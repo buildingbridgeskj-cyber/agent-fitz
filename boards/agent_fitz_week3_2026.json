@@ -1,0 +1,25 @@
+{
+  "season": 2026,
+  "week": 3,
+  "captured_date": "2026-09-16",
+  "mode": "PAPER_ANALYSIS",
+  "notes": "Lines are snapshots and must be rechecked before kickoff. No wager placement.",
+  "picks": [
+    {"matchup":"BYU at Colorado State","market":"ATS","selection":"BYU","line":-17.5,"score":82,"reason":"Market is materially shorter than a -25 projection; BYU entered ranked and 2-0.","source":"https://vsin.com/college-football/week-3-college-football-predictions-from-the-t-shoe-index/"},
+    {"matchup":"Houston at Texas Tech","market":"ATS","selection":"Houston","line":7.5,"score":81,"reason":"More than a touchdown with an unbeaten ranked underdog; independent Week 3 analysis also identified Houston plus the points.","source":"https://www.teamrankings.com/college-football/odds-week-3"},
+    {"matchup":"North Carolina at Clemson","market":"ATS","selection":"Clemson","line":-3.5,"score":79,"reason":"Home favorite at a field-goal price; running-game matchup supports Clemson despite early volatility.","source":"https://www.pickswise.com/news/college-football-week-3-odds-opening-lines-2026/"},
+    {"matchup":"Georgia at Arkansas","market":"ATS","selection":"Georgia","line":-24.5,"score":78,"reason":"Georgia entered No. 2 after a 70-20 win; market snapshot remained below four touchdowns.","source":"https://www.si.com/betting/college-football-week-3-opening-odds-every-top-25-game-spreads-totals"},
+    {"matchup":"Miami at Wake Forest","market":"ATS","selection":"Miami","line":-20.5,"score":78,"reason":"Large talent gap with a line still near three touchdowns rather than beyond it.","source":"https://www.teamrankings.com/college-football/odds-week-3"},
+    {"matchup":"Arizona State at Kansas","market":"ATS","selection":"Arizona State","line":-5.5,"score":77,"reason":"Current market holds ASU below a touchdown in a matchup it is favored to control.","source":"https://www.cbssports.com/college-football/odds/FBS/2026/regular/week-3/"},
+    {"matchup":"James Madison at San Diego State","market":"ATS","selection":"James Madison","line":2.5,"score":76,"reason":"Near pick'em game; take the points with the visitor rather than laying juice.","source":"https://www.cbssports.com/college-football/odds/PAC12/2026/regular/week-3/"},
+    {"matchup":"Connecticut at Southern Miss","market":"ATS","selection":"Connecticut","line":-3.0,"score":76,"reason":"Short road favorite with current market support through the key number of three.","source":"https://www.cbssports.com/college-football/odds/FBS/2026/regular/week-3/"},
+    {"matchup":"UTSA at Texas","market":"ATS","selection":"Texas","line":-30.0,"score":75,"reason":"No. 1 Texas has the ceiling to separate; price held near the opening number.","source":"https://www.cbssports.com/college-football/odds/FBS/2026/regular/week-3/"},
+    {"matchup":"Michigan State at Notre Dame","market":"ATS","selection":"Notre Dame","line":-29.5,"score":75,"reason":"Top-three home favorite remains just below the key 30-point threshold.","source":"https://www.cbssports.com/college-football/odds/FBS/2026/regular/week-3/"},
+    {"matchup":"West Virginia at Virginia","market":"ATS","selection":"Virginia","line":-9.5,"score":74,"reason":"Ranked home side below double digits after the market crossed through -10.","source":"https://www.cbssports.com/college-football/odds/FBS/2026/regular/week-3/"},
+    {"matchup":"East Carolina at Old Dominion","market":"ATS","selection":"Old Dominion","line":-2.5,"score":74,"reason":"Home favorite below the key field-goal number.","source":"https://www.cbssports.com/college-football/odds/FBS/2026/regular/week-3/"},
+    {"matchup":"North Texas at Texas State","market":"ATS","selection":"North Texas","line":3.0,"score":73,"reason":"Take a full field goal in a closely priced regional matchup.","source":"https://www.cbssports.com/college-football/odds/PAC12/2026/regular/week-3/"},
+    {"matchup":"Fresno State at San Jose State","market":"ATS","selection":"Fresno State","line":-6.5,"score":72,"reason":"Favorite remains below the key touchdown threshold.","source":"https://www.cbssports.com/college-football/odds/PAC12/2026/regular/week-3/"},
+    {"matchup":"Northern Illinois at Arizona","market":"ATS","selection":"Arizona","line":-34.5,"score":71,"reason":"Large favorite with a stable market projection; lower confidence because of backdoor risk.","source":"https://www.teamrankings.com/college-football/odds-week-3"},
+    {"matchup":"Colorado at Northwestern","market":"ATS","selection":"Colorado","line":3.5,"score":70,"reason":"Qualified only at +3.5 or better in a low-spread matchup.","source":"https://www.cbssports.com/college-football/odds/FBS/2026/regular/week-3/"}
+  ]
+}
