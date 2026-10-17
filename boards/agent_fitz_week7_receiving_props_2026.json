@@ -1,0 +1,70 @@
+{
+  "season": 2026,
+  "week": 7,
+  "group": "receiving",
+  "day": "2026-10-17",
+  "captured_date": "2026-10-16",
+  "notes": "Research-only snapshots from October 16 public sources. Directional scores 70+ rank editorial or model-supported candidates for RECHECK, not measured win probabilities. PASS rows are available-market watchlist only. Not a live verified sportsbook feed; no wagers. Every source line and athlete/active status must be verified before kickoff. Unders and threshold labels captured as stated. Never interpolate lines.",
+  "picks": [
+    {
+      "matchup": "Northwestern at Michigan State",
+      "market": "REC",
+      "selection": "Griffin Wilde UNDER 5.5 RECEPTIONS",
+      "player": "Griffin Wilde",
+      "team": "Northwestern",
+      "opponent": "Michigan State",
+      "direction": "UNDER",
+      "line": 5.5,
+      "odds": "-130",
+      "score": 80,
+      "reason": "Dimers Oct 16 listed 78.9% model probability and 22.4% modeled edge; market is receptions, not yards.",
+      "source": "https://www.dimers.com/cfb/props",
+      "status": "RESEARCH_QUALIFIED"
+    },
+    {
+      "matchup": "Florida State at Miami",
+      "market": "REC_YDS",
+      "selection": "Cooper Barkate OVER 56.5 REC YDS",
+      "player": "Cooper Barkate",
+      "team": "Miami",
+      "opponent": "Florida State",
+      "direction": "OVER",
+      "line": 56.5,
+      "odds": null,
+      "score": 74,
+      "reason": "Covers Week 7 featured this over (ProphetX probability 51.92%); price sensitive.",
+      "source": "https://www.covers.com/ncaaf/player-props-best-bets-week-7-2026",
+      "status": "RESEARCH_QUALIFIED"
+    },
+    {
+      "matchup": "Florida State at Miami",
+      "market": "REC_YDS",
+      "selection": "Amare Thomas OVER 50.5 REC YDS",
+      "player": "Amare Thomas",
+      "team": "Florida State",
+      "opponent": "Miami",
+      "direction": "OVER",
+      "line": 50.5,
+      "odds": null,
+      "score": 72,
+      "reason": "Covers Week 7 featured this over (ProphetX probability 50.98%); price sensitive.",
+      "source": "https://www.covers.com/ncaaf/player-props-best-bets-week-7-2026",
+      "status": "RESEARCH_QUALIFIED"
+    },
+    {
+      "matchup": "Virginia at SMU",
+      "market": "REC_YDS",
+      "selection": "Yamir Knight OVER 57.5 REC YDS",
+      "player": "Yamir Knight",
+      "team": "SMU",
+      "opponent": "Virginia",
+      "direction": "OVER",
+      "line": 57.5,
+      "odds": null,
+      "score": 60,
+      "reason": "Win Daily lists 57.5 consensus line, not a directional recommendation; WATCH ONLY.",
+      "source": "https://windailysports.com/ncaaf-player-props/virginia-cavaliers-vs-smu-mustangs-2026-10-17/",
+      "status": "WATCH_ONLY_PASS"
+    }
+  ]
+}
