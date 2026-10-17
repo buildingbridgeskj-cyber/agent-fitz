@@ -1,0 +1,232 @@
+{
+  "season": 2026,
+  "week": 7,
+  "research_date": "2026-10-16",
+  "target_date": "2026-10-17",
+  "timezone": "America/New_York",
+  "scope": "20 researched/screened Saturday games, not every scheduled Week 7 matchup",
+  "odds_reference": "https://www.cbssports.com/college-football/betting/how-to-bet-on-2026-week-7-college-football-betting-guide-odds-trends-previews-apps-over-3000-in-promos/",
+  "note": "Pre-kickoff research/paper-analysis only. Subjective scores are not empirical probabilities; no wagering or live API execution. Values reflect differing Oct 16 sources, not guaranteed live executable sportsbook odds. If line changes or injuries affect any selection, review again before kickoff. No Friday games included; prior Week 3 boards untouched.",
+  "picks": [
+    {
+      "matchup": "Oklahoma State at Houston",
+      "market": "ATS",
+      "selection": "Houston",
+      "line": -4.5,
+      "score": 83,
+      "reason": "Model Houston -9.8 vs quoted -4.5, but Cowboys passing offense presents real cover risk.",
+      "source": "https://bluechipanalytics.com/college-football/games/2026/week7/2026-10-17-oklahoma-state-houston/",
+      "kickoff": "2026-10-17 19:30 EDT",
+      "status": "RESEARCH_QUALIFIED"
+    },
+    {
+      "matchup": "Penn State at Michigan",
+      "market": "ATS",
+      "selection": "Penn State",
+      "line": 6.5,
+      "score": 82,
+      "reason": "Model Michigan -3.1 against one published Michigan -6.5 quote; broader guide showed -6.0, so +6.5 may be unavailable. Both teams inconsistent.",
+      "source": "https://bluechipanalytics.com/college-football/games/2026/week7/2026-10-17-penn-state-michigan/",
+      "kickoff": "2026-10-17 15:30 EDT",
+      "status": "RESEARCH_QUALIFIED"
+    },
+    {
+      "matchup": "Northwestern at Michigan State",
+      "market": "ATS",
+      "selection": "Northwestern",
+      "line": -7.5,
+      "score": 81,
+      "reason": "Northwestern rushing attack and comparatively healthy roster against injured MSU; rivalry and Pat Fitzgerald return increase uncertainty.",
+      "source": "https://www.insidenu.com/northwestern-football/72285/roundtable-no-25-northwestern-at-michigan-state-predictions",
+      "kickoff": "2026-10-17 12:00 EDT",
+      "status": "RESEARCH_QUALIFIED"
+    },
+    {
+      "matchup": "Wake Forest at California",
+      "market": "ATS",
+      "selection": "Wake Forest",
+      "line": -9.5,
+      "score": 79,
+      "reason": "Independent model Wake -12.6 versus market -9.5, but cross-country travel and late body-clock kickoff are substantial risks.",
+      "source": "https://bluechipanalytics.com/college-football/games/2026/week7/2026-10-17-wake-forest-california/",
+      "kickoff": "2026-10-17 22:30 EDT",
+      "status": "RESEARCH_QUALIFIED"
+    },
+    {
+      "matchup": "New Mexico at Hawaii",
+      "market": "ATS",
+      "selection": "New Mexico",
+      "line": -14.5,
+      "score": 77,
+      "reason": "Model New Mexico -17.3 versus one -14.5 quoted price; long trip, possible wind, and alternate larger spreads lower confidence.",
+      "source": "https://bluechipanalytics.com/college-football/games/2026/week7/2026-10-17-new-mexico-hawaii/",
+      "kickoff": "2026-10-17 22:30 EDT",
+      "status": "RESEARCH_QUALIFIED"
+    },
+    {
+      "matchup": "Kentucky at Oklahoma",
+      "market": "ATS",
+      "selection": "Kentucky",
+      "line": 6.5,
+      "score": 76,
+      "reason": "Power model Oklahoma around -4.8 versus market Oklahoma -6.5; turnovers and Oklahoma defense are risk factors.",
+      "source": "https://bluechipanalytics.com/college-football/games/2026/week7/2026-10-17-kentucky-oklahoma/",
+      "kickoff": "2026-10-17 19:30 EDT",
+      "status": "RESEARCH_QUALIFIED"
+    },
+    {
+      "matchup": "Arizona State at Texas Tech",
+      "market": "ATS",
+      "selection": "Texas Tech",
+      "line": -14.5,
+      "score": 76,
+      "reason": "Some sources quoted Tech -16.5 while a later broad odds guide quoted -14.5. Only research-qualified at -14.5 or better; movement must be rechecked.",
+      "source": "https://www.covers.com/ncaaf/arizona-state-vs-texas-tech-prediction-picks-odds-oct-17-2026",
+      "kickoff": "2026-10-17 15:30 EDT",
+      "status": "RESEARCH_QUALIFIED"
+    },
+    {
+      "matchup": "Utah at Colorado",
+      "market": "ATS",
+      "selection": "Utah",
+      "line": -15.5,
+      "score": 75,
+      "reason": "Utah has strong recent ATS form and matchup advantage; updated broad-market quote -15.5 is worse than earlier -14.5.",
+      "source": "https://www.covers.com/ncaaf/top-25-predictions-week-7-2026",
+      "kickoff": "2026-10-17 22:15 EDT",
+      "status": "RESEARCH_QUALIFIED"
+    },
+    {
+      "matchup": "Notre Dame at BYU",
+      "market": "ATS",
+      "selection": "Notre Dame",
+      "line": -10,
+      "score": 68,
+      "reason": "PASS: BYU personnel uncertainty versus competing models; difficult to justify double-digit road favorite.",
+      "source": "https://www.covers.com/ncaaf/notre-dame-vs-byu-prediction-picks-odds-oct-17-2026",
+      "kickoff": "2026-10-17 19:30 EDT",
+      "status": "PASS"
+    },
+    {
+      "matchup": "Ohio State at Indiana",
+      "market": "ATS",
+      "selection": "PASS",
+      "line": null,
+      "score": 63,
+      "reason": "PASS: top-five matchup with balanced projections; no supported ATS advantage.",
+      "source": "https://www.cbssports.com/college-football/news/college-football-odds-predictions-week-7-ohio-state-indiana-notre-dame-byu/",
+      "kickoff": "2026-10-17 12:00 EDT",
+      "status": "PASS"
+    },
+    {
+      "matchup": "Nebraska at Oregon",
+      "market": "ATS",
+      "selection": "PASS",
+      "line": null,
+      "score": 60,
+      "reason": "PASS: Oregon quarterback status uncertain in pregame reporting; avoid pre-confirmation spread.",
+      "source": "https://www.cornnation.com/football/103541/friday-flakes-so-who-gets-to-play-quarterback-for-oregon-on-saturday-against-nebraska",
+      "kickoff": "2026-10-17 23:00 EDT",
+      "status": "PASS"
+    },
+    {
+      "matchup": "Florida State at Miami",
+      "market": "ATS",
+      "selection": "PASS",
+      "line": null,
+      "score": 64,
+      "reason": "PASS: Miami favored by roughly three touchdowns, but variance and roster/weather uncertainty; no verified margin edge.",
+      "source": "https://www.covers.com/ncaaf/florida-state-vs-miami-prediction-picks-odds-oct-17-2026",
+      "kickoff": "2026-10-17 19:00 EDT",
+      "status": "PASS"
+    },
+    {
+      "matchup": "Alabama at Tennessee",
+      "market": "ATS",
+      "selection": "PASS",
+      "line": null,
+      "score": 65,
+      "reason": "PASS: high-variance ranked rivalry without an independently established spread edge.",
+      "source": "https://www.espn.com/espn/betting/story/_/id/50166976/2026-college-football-week-7-top-25-betting-lines-odds",
+      "kickoff": "2026-10-17 15:30 EDT",
+      "status": "PASS"
+    },
+    {
+      "matchup": "Florida at Texas",
+      "market": "ATS",
+      "selection": "PASS",
+      "line": null,
+      "score": 64,
+      "reason": "PASS: guide listed Texas -10.5, but no independently established edge at this number.",
+      "source": "https://www.cbssports.com/college-football/betting/how-to-bet-on-2026-week-7-college-football-betting-guide-odds-trends-previews-apps-over-3000-in-promos/",
+      "kickoff": "2026-10-17 12:00 EDT",
+      "status": "PASS"
+    },
+    {
+      "matchup": "Mississippi State at LSU",
+      "market": "ATS",
+      "selection": "PASS",
+      "line": null,
+      "score": 62,
+      "reason": "PASS: significant Mississippi State personnel questions; no reliable model-versus-market advantage identified.",
+      "source": "https://www.cbssports.com/college-football/betting/how-to-bet-on-2026-week-7-college-football-betting-guide-odds-trends-previews-apps-over-3000-in-promos/",
+      "kickoff": "2026-10-17 12:00 EDT",
+      "status": "PASS"
+    },
+    {
+      "matchup": "Missouri at Ole Miss",
+      "market": "ATS",
+      "selection": "PASS",
+      "line": null,
+      "score": 65,
+      "reason": "PASS: guide listed Ole Miss -6; closely contested top-15 matchup, no research-qualified ATS edge.",
+      "source": "https://www.cbssports.com/college-football/betting/how-to-bet-on-2026-week-7-college-football-betting-guide-odds-trends-previews-apps-over-3000-in-promos/",
+      "kickoff": "2026-10-17 15:30 EDT",
+      "status": "PASS"
+    },
+    {
+      "matchup": "North Carolina at Duke",
+      "market": "ATS",
+      "selection": "PASS",
+      "line": null,
+      "score": 62,
+      "reason": "PASS: guide listed Duke -3.5; no validated spread advantage for either side.",
+      "source": "https://www.cbssports.com/college-football/betting/how-to-bet-on-2026-week-7-college-football-betting-guide-odds-trends-previews-apps-over-3000-in-promos/",
+      "kickoff": "2026-10-17 15:30 EDT",
+      "status": "PASS"
+    },
+    {
+      "matchup": "Auburn at Georgia",
+      "market": "ATS",
+      "selection": "PASS",
+      "line": null,
+      "score": 61,
+      "reason": "PASS: guide listed Georgia -20.5; large favorite plus rivalry variance, no validated edge.",
+      "source": "https://www.cbssports.com/college-football/betting/how-to-bet-on-2026-week-7-college-football-betting-guide-odds-trends-previews-apps-over-3000-in-promos/",
+      "kickoff": "2026-10-17 15:30 EDT",
+      "status": "PASS"
+    },
+    {
+      "matchup": "Wisconsin at UCLA",
+      "market": "ATS",
+      "selection": "PASS",
+      "line": null,
+      "score": 60,
+      "reason": "PASS: guide listed UCLA -3; no independently established price advantage.",
+      "source": "https://www.cbssports.com/college-football/betting/how-to-bet-on-2026-week-7-college-football-betting-guide-odds-trends-previews-apps-over-3000-in-promos/",
+      "kickoff": "2026-10-17 19:30 EDT",
+      "status": "PASS"
+    },
+    {
+      "matchup": "TCU at Baylor",
+      "market": "ATS",
+      "selection": "PASS",
+      "line": null,
+      "score": 61,
+      "reason": "PASS: guide listed Baylor -5.5; no independently validated edge.",
+      "source": "https://www.cbssports.com/college-football/betting/how-to-bet-on-2026-week-7-college-football-betting-guide-odds-trends-previews-apps-over-3000-in-promos/",
+      "kickoff": "2026-10-17 19:00 EDT",
+      "status": "PASS"
+    }
+  ]
+}
