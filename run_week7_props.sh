@@ -23,6 +23,16 @@ for group in "${GROUPS[@]}"; do
   echo
   echo "Full board (including watch-only/PASS candidates):"
   python agent_fitz.py board --season 2026 --week 7 --db "$ledger"
+  echo
+  echo "Market snapshot: direction, yard/reception threshold, listed odds and status"
+  python - "$board" <<'PY'
+import json, sys
+with open(sys.argv[1], encoding="utf-8") as f:
+    picks = json.load(f)["picks"]
+for p in sorted(picks, key=lambda x: -int(x["score"])):
+    odds = p.get("odds") or "not verified"
+    print(f'{p["score"]:>3} {p["market"]:<12} {p["selection"]:<48} odds {odds:<13} {p["status"]}')
+PY
 done
 echo
 echo "Done. Each category uses its OWN ledger, so spread and prop tickets do not mix."
